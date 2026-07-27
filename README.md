@@ -50,5 +50,4 @@ Existe una diferencia sustancial entre la **Media (32.2 min)** y la **Mediana (2
 * Google Sheets (Estadística Descriptiva, Filtros y Tablas)
 * Análisis de Tendencia Central (Media vs. Mediana)
 
----
-✉️ **Contacto**: [Tu LinkedIn] | Matías Gómez
+---✉️ **Contacto**: [Tu LinkedIn] | Matías Gómez
