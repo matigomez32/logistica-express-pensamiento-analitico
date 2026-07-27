@@ -51,13 +51,6 @@ El Gerente de Operaciones manifestó preocupación por posibles demoras en entre
 * Google Sheets / Excel (Estadística Descriptiva y Fórmulas)
 * Análisis de Tendencia Central (Media vs. Mediana)
 
----
-✉️ **Contacto**: Matías Gómez
 
----
-
-## 🛠️ Herramientas Utilizadas
-* Google Sheets (Estadística Descriptiva, Filtros y Tablas)
-* Análisis de Tendencia Central (Media vs. Mediana)
 
 ---✉️ **Contacto**: [Tu LinkedIn] | Matías Gómez
